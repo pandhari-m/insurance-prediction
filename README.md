@@ -3,6 +3,7 @@
 This project predicts whether a customer will purchase insurance based on anonymized customer and vehicle data. It uses machine learning models to help businesses identify potential customers for targeted marketing and improved conversion rates.
 
 📌 Project Overview
+
 Performed data cleaning, preprocessing, and exploratory data analysis (EDA)
 Handled imbalanced dataset using advanced techniques
 Built and evaluated multiple models:
@@ -11,6 +12,7 @@ Random Forest
 XGBoost (Final Model)
 Applied threshold tuning to balance precision and recall
 Achieved strong ROC-AUC and practical business performance
+
 📂 Dataset
 
 The dataset contains anonymized customer and vehicle-related features.
@@ -21,17 +23,23 @@ The dataset contains anonymized customer and vehicle-related features.
 (Add your dataset link here)
 
 ⚙️ Tech Stack
+
 🖥️ Language
+
 Python 3.x
 
 📚 Libraries
 
 pandas, numpy → Data preprocessing
+
 matplotlib, seaborn → Visualization
+
 scikit-learn → Model training & evaluation
+
 xgboost → Final model
 
 🚀 Project Workflow
+
 🔹 Data Preprocessing
 Handling missing values
 Feature encoding
@@ -52,10 +60,14 @@ Handled class imbalance using scale_pos_weight
 Applied threshold tuning for better recall-precision balance
 
 📊 Evaluation Metrics
+
 ROC-AUC
+
 Precision
+
 Recall
 F1-score
+
 Confusion 
 Matrix
 
