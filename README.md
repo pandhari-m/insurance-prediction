@@ -19,8 +19,10 @@ The dataset contains anonymized customer and vehicle-related features.
 
 ⚠️ Dataset is not included due to size restrictions.
 
-🔗 Download Dataset Here:
-([Add your dataset link here](https://docs.google.com/spreadsheets/d/1RIgMnFNfltin36Ns6o45J6goXhnti_45/edit?usp=sharing&ouid=104729555084398053300&rtpof=true&sd=true))
+🔗 Download Dataset:
+https://drive.usercontent.google.com/download?id=1RIgMnFNfltin36Ns6o45J6goXhnti_45&authuser=0
+
+⚠️ Note: If Google Drive shows a warning about file size, click "Download anyway".
 
 ⚙️ Tech Stack
 
