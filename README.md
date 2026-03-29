@@ -94,11 +94,15 @@ Model helps identify high-probability customers for targeted marketing
 insurance-prediction/
 
 │── data/                # Dataset (not included)
+
 │── notebooks/           # Jupyter notebooks
+
 │── models/              # Saved model (.pkl)
+
 │── src/                 # Training & prediction scripts
-│── app/                 # Streamlit dashboard
+
 │── requirements.txt
+
 │── README.md
 
 📜 License
