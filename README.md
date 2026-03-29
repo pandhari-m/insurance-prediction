@@ -66,15 +66,19 @@ ROC-AUC
 Precision
 
 Recall
+
 F1-score
 
-Confusion 
-Matrix
+Confusion Matrix
 
 📈 Results
+
 Best Model: XGBoost
+
 ROC-AUC: ~0.62
+
 Recall: ~44%
+
 Precision: ~5.8%
 
 👉 The model provides a balanced trade-off between identifying potential customers and minimizing false positives.
@@ -86,7 +90,9 @@ Vehicle-related features (ps_car_*) also influence decisions
 Model helps identify high-probability customers for targeted marketing
 
 🗂️ Project Structure
+
 insurance-prediction/
+
 │── data/                # Dataset (not included)
 │── notebooks/           # Jupyter notebooks
 │── models/              # Saved model (.pkl)
