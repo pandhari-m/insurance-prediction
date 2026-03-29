@@ -68,6 +68,7 @@ Precision: ~5.8%
 👉 The model provides a balanced trade-off between identifying potential customers and minimizing false positives.
 
 💡 Key Insights
+
 Customer-related features (ps_ind_*) significantly impact predictions
 Vehicle-related features (ps_car_*) also influence decisions
 Model helps identify high-probability customers for targeted marketing
