@@ -93,13 +93,13 @@ Model helps identify high-probability customers for targeted marketing
 
 insurance-prediction/
 
-│── data/                # Dataset (not included)
+│── data/                 # Dataset (not included)
 
-│── notebooks/           # Jupyter notebooks
+│── notebooks/            # Jupyter notebooks
 
-│── models/              # Saved model (.pkl)
+│── models/               # Saved model (.pkl)
 
-│── src/                 # Training & prediction scripts
+│── src/                  # Training & prediction scripts
 
 │── requirements.txt
 
