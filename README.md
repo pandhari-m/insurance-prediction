@@ -23,33 +23,41 @@ The dataset contains anonymized customer and vehicle-related features.
 ⚙️ Tech Stack
 🖥️ Language
 Python 3.x
+
 📚 Libraries
 pandas, numpy → Data preprocessing
 matplotlib, seaborn → Visualization
 scikit-learn → Model training & evaluation
 xgboost → Final model
+
 🚀 Project Workflow
 🔹 Data Preprocessing
 Handling missing values
 Feature encoding
 Train-test split
+
 🔹 Exploratory Data Analysis (EDA)
 Feature distribution analysis
 Correlation checks
 Class imbalance analysis
+
 🔹 Model Building
 Logistic Regression
 Random Forest
 XGBoost (selected model)
+
 🔹 Model Optimization
 Handled class imbalance using scale_pos_weight
 Applied threshold tuning for better recall-precision balance
+
 📊 Evaluation Metrics
 ROC-AUC
 Precision
 Recall
 F1-score
-Confusion Matrix
+Confusion 
+Matrix
+
 📈 Results
 Best Model: XGBoost
 ROC-AUC: ~0.62
@@ -62,6 +70,7 @@ Precision: ~5.8%
 Customer-related features (ps_ind_*) significantly impact predictions
 Vehicle-related features (ps_car_*) also influence decisions
 Model helps identify high-probability customers for targeted marketing
+
 🗂️ Project Structure
 insurance-prediction/
 │── data/                # Dataset (not included)
