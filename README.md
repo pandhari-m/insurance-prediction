@@ -88,6 +88,8 @@ Model helps identify high-probability customers for targeted marketing
 
 🗂️ Project Structure
 
+~~~
+
 insurance-prediction/
 
 │── data/                 # Dataset (not included)
@@ -102,6 +104,7 @@ insurance-prediction/
 
 │── README.md
 
+~~~
 📜 License
 
 This project is licensed under the MIT License.
