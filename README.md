@@ -1,5 +1,5 @@
-🏦 Insurance Purchase Prediction
-
+• Insurance Purchase Prediction
+---
 This project predicts whether a customer will purchase insurance based on anonymized customer and vehicle data. It uses machine learning models to help businesses identify potential customers for targeted marketing and improved conversion rates.
 
 📌 Project Overview
